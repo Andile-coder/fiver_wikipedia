@@ -1,0 +1,47 @@
+.content {
+    width: 60%;
+    margin: auto;
+  }
+  a {
+    color: #3366cc;
+    text-decoration: none;
+  }
+  .infobox_vcard{
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 60%;
+    line-height: 1.5em;
+    width: 22em;
+  }
+  .thumb_tright{
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+    
+  }
+  .thumb_tleft{
+    border: 1px solid #a2a9b1;
+    border-spacing: 3px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: left;
+    clear: left;
+    font-size: 88%;
+    line-height: 1.5em;
+    
+  }
